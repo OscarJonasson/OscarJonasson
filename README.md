@@ -1,4 +1,4 @@
-### HTML / CSS / JS / REACT / PHP / SYMFONY / DRUPAL
+### HTML / CSS / JS / TS / REACT / PHP / SYMFONY / DRUPAL
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarjonasson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
